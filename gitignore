@@ -17,3 +17,17 @@ build
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+desktop.ini
+
+# TeX
+*.synctex.gz
+*.aux
+
+# Kate
+*.kate-swp
+
+# Texpad
+.texpadtmp
+
+# MacOS
+.DS_Store
