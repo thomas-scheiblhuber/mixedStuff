@@ -1,0 +1,19 @@
+# Template for .gitignore
+
+# Vim
+*.swo
+*.swp
+
+# KDE
+.directory
+
+# CMake
+build
+
+# Kdevelop
+*.kdev4
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
