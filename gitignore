@@ -31,3 +31,6 @@ desktop.ini
 
 # MacOS
 .DS_Store
+
+# Qt
+*.pro.user
